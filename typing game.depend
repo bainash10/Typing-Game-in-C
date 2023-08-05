@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1464278801 source:c:\users\shashi\desktop\typing game\main.c
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+

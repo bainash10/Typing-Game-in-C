@@ -1,0 +1,6 @@
+
+name=Bainash   score=80    speed=48    level=1
+name=SATYAM   score=10    speed=60    level=1
+name=SATYAM   score=60    speed=36    level=1
+name=Nischal   score=80    speed=48    level=1
+name=Rijesh   score=50    speed=42    level=1
